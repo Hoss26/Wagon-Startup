@@ -1,0 +1,16 @@
+.banner{
+  background-image: url(../../images/clo.png);
+  padding: 150px 0px;
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  font-size: 50px;
+}
+.banner h2{
+  font-size: 30px;
+  font-weight: unset;
+  opacity: 0.8;
+  margin-bottom: 50px;
+}
